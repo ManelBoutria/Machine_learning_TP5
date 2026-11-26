@@ -1,0 +1,4 @@
+threshold,n_removed,removed
+0.0,0,
+0.01,16,"mean smoothness, mean compactness, mean concavity, mean concave points, mean symmetry, mean fractal dimension, smoothness error, compactness error, concavity error, concave points error, symmetry error, fractal dimension error, worst smoothness, worst concave points, worst symmetry, worst fractal dimension"
+0.1,19,"mean smoothness, mean compactness, mean concavity, mean concave points, mean symmetry, mean fractal dimension, radius error, smoothness error, compactness error, concavity error, concave points error, symmetry error, fractal dimension error, worst smoothness, worst compactness, worst concavity, worst concave points, worst symmetry, worst fractal dimension"
